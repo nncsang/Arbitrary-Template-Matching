@@ -3,4 +3,4 @@ Template matching is one of the significant methods used in most computer vision
 
 [For more information please read this paper and watch the below video](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6485395)
 
-[![ScreenShot](http://res.cloudinary.com/dppqpdago/image/upload/v1443517486/Screen_Shot_2015-09-29_at_11.04.05_AM_l4meul.png)](http://res.cloudinary.com/dppqpdago/image/upload/v1443517486/Screen_Shot_2015-09-29_at_11.04.05_AM_l4meul.png)
+[![ScreenShot](http://res.cloudinary.com/dppqpdago/image/upload/v1443517486/Screen_Shot_2015-09-29_at_11.04.05_AM_l4meul.png)](https://www.youtube.com/watch?v=DNqqE0ktdIM&index=2&list=PLWlCg_90R7rup8GANzT6Ie_pAyogSdfVW)
